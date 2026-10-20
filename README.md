@@ -3,11 +3,10 @@
   <b>Full-Stack Developer | Building fast, dependable software with Java, Spring Boot & React</b>
 </p>
 
-<!-- SOCIAL & COMPETITIVE PROGRAMMING BADGES -->
 <p align="center">
   <a href="https://sharmavarun.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge" />
+</a>
   <a href="https://www.linkedin.com/in/uservarun/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -35,12 +34,49 @@
       </ul>
     </td>
     <td width="45%" valign="top">
-
-```json
-{
+      <pre><code>{
   "name": "Varun Sharma",
   "role": "Full-Stack Developer",
   "location": "Bareilly, UP, India",
-  "primary_stack": ["Java", "Spring Boot", "PostgreSQL", "React"],
+  "primary_stack": [
+    "Java",
+    "Spring Boot",
+    "PostgreSQL",
+    "React"
+  ],
   "focus": "Backend Architecture & Reliable Systems"
-}
+}</code></pre>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Arsenal
+
+<p align="center">
+  <b>Backend & Database</b><br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres" />
+</p>
+
+<p align="center">
+  <b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
+
+<p align="center">
+  <b>DevOps, Cloud & Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=postman,docker,aws,git,github" />
+</p>
+
+---
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uservarun/uservarun/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uservarun/uservarun/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/uservarun/uservarun/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
