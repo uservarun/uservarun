@@ -1,6 +1,6 @@
-<!-- HEADER BANNER -->
+<h1 align="center">Hi 👋, I'm Varun Sharma</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Varun%20Sharma&fontSize=42&fontColor=ffffff&desc=Full-Stack%20%7C%20Java%20%26%20Spring%20Boot%20Developer&descSize=16&descAlignY=68" width="100%" />
+  <b>Full-Stack Developer | Building fast, dependable software with Java, Spring Boot & React</b>
 </p>
 
 <!-- SOCIAL & COMPETITIVE PROGRAMMING BADGES -->
